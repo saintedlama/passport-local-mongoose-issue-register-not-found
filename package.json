@@ -1,0 +1,12 @@
+{
+  "name": "passport-local-mongoose-issue-register-not-found",
+  "version": "1.0.0",
+  "description": "Demo for issue https://github.com/saintedlama/passport-local-mongoose/issues/229",
+  "main": "index.ts",
+  "author": "Christoph Walcher <christoph.walcher@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.11.9",
+    "passport-local-mongoose": "^4.2.1"
+  }
+}
